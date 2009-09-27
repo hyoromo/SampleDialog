@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SampleDialog</string>
+    <string name="app_title">ボタンを押せばダイアログ表示</string>
+
+    <string name="progress_dialog_name">ProgressDialog表示</string>
+    <string name="progress_dialog_name_title">ProgressDialog</string>
+    <string name="progress_dialog_name_mes">3秒お待ちください...</string>
+
+    <string name="alert_dialog_name1">AlertDialog表示(xml読込)</string>
+    <string name="alert_dialog_name1_title">AlertDialog1</string>
+    <string name="alert_dialog_name1_mes">何か入力してください</string>
+    <string name="alert_dialog_name1_button1">OK</string>
+    <string name="alert_dialog_name1_button2">NO</string>
+
+    <string name="alert_dialog_name2">AlertDialog表示(簡易)</string>
+    <string name="alert_dialog_name2_title">AlertDialog2</string>
+    <string name="alert_dialog_name2_mes">OKを押してください</string>
+    <string name="alert_dialog_name2_button">OK</string>
+</resources>
